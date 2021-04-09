@@ -1,3 +1,6 @@
+# Archived
+This project has moved homes. Find it at https://github.com/JakeCover/distest!!
+
 # Dismock
 
 A small library used to write automated test for Discord bots.
